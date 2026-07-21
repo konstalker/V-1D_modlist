@@ -1,3 +1,17 @@
-osp2-be;[RURL]download_confs/osp2-be.dconf;osp2
-oDFe;[RURL]download_confs/oDFe-[OS].dconf;engine
-defrag;[RURL]download_confs/defrag.dconf
+[
+  {
+    "name": "osp2-be",
+    "link": "[RURL]download_confs/osp2-be.dconf",
+    "tag": "osp2"
+  },
+  {
+    "name": "oDFe",
+    "link": "[RURL]download_confs/oDFe-[OS].dconf",
+    "tag": "engine"
+  },
+  {
+    "name": "defrag",
+    "link": "[RURL]download_confs/defrag.dconf",
+    "tag": null
+  }
+]
