@@ -1,20 +1,17 @@
-[
-  {
-    "name": "osp2-be",
+{
+  "osp2-be": {
     "version": "https://konstalker.github.io/assets/version.txt",
     "link": "[RURL]download_confs/osp2-be.dconf",
     "tag": "osp2"
   },
-  {
-    "name": "oDFe",
+  "oDFe": {
     "version": "git",
     "link": "[RURL]download_confs/oDFe-[OS].dconf",
     "tag": "engine"
   },
-  {
-    "name": "defrag",
+  "defrag": {
     "version": null,
     "link": "[RURL]download_confs/defrag.dconf",
     "tag": null
   }
-]
+}
