@@ -1,19 +1,2 @@
-[
-  {
-    "type": "f",
-    "name": "version.txt",
-    "url": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
-    "param": "./temp_files/"
-  },
-  {
-    "type": "a",
-    "name": "q3void.zip",
-    "url": "https://github.com/konstalker/Q3V-1D/archive/refs/heads/[CBRANCH].zip",
-    "files": [
-      [
-        "./Q3V-1D-[CBRANCH]/baseq3/mods/osp/zzz-kon.pk3dir",
-        "../baseq3/mods/osp/zzz-kon.pk3dir"
-      ]
-    ]
-  }
-]
+f;version.txt;https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version;./temp_files/
+a;q3void.zip;https://github.com/konstalker/Q3V-1D/archive/refs/heads/[CBRANCH].zip;./Q3V-1D-[CBRANCH]/baseq3/mods/osp/zzz-kon.pk3dir;../baseq3/mods/osp/zzz-kon.pk3dir

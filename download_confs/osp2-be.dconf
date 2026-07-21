@@ -1,14 +1,2 @@
-[
-  {
-    "type": "f",
-    "name": "version.txt",
-    "url": "https://konstalker.github.io/assets/version.txt",
-    "param": "./temp_files/"
-  },
-  {
-    "type": "f",
-    "name": "zz-osp-pak8be.pk3",
-    "url": "https://konstalker.github.io/assets/zz-osp-pak8be.pk3",
-    "param": "../baseq3/mods/osp/"
-  }
-]
+f;version.txt;https://konstalker.github.io/assets/version.txt;./temp_files/
+f;zz-osp-pak8be.pk3;https://konstalker.github.io/assets/zz-osp-pak8be.pk3;../baseq3/mods/osp/
