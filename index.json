@@ -2,16 +2,19 @@
   "osp2-be": {
     "version": "https://konstalker.github.io/assets/version.txt",
     "link": "[RURL]download_confs/osp2-be.dconf",
-    "tag": "osp2"
+    "tag": "osp2",
+    "description": "improved OSP"
   },
   "oDFe": {
     "version": "git",
     "link": "[RURL]download_confs/oDFe-[OS].dconf",
-    "tag": "engine"
+    "tag": "engine",
+    "description": "open defrag engine"
   },
   "defrag": {
     "version": "v1",
     "link": "[RURL]download_confs/defrag.dconf",
-    "tag": "defrag"
+    "tag": "defrag",
+    "description": "mod for speedrunning maps"
   }
 }
