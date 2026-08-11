@@ -11,6 +11,12 @@
     "tag": "engine",
     "description": "open defrag engine"
   },
+  "kon": {
+    "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
+    "link": "[RURL]download_confs/kon.dconf",
+    "tag": "compilation",
+    "description": "defaul Q3V#1D compilation source file"
+  },
   "defrag": {
     "version": "v1",
     "link": "[RURL]download_confs/defrag.dconf",
