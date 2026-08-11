@@ -15,7 +15,13 @@
     "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
     "link": "[RURL]download_confs/kon.dconf",
     "tag": "compilation",
-    "description": "defaul Q3V#1D compilation source file"
+    "description": "default Q3V#1D compilation source file"
+  },
+  "kon_conf": {
+    "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
+    "link": "[RURL]download_confs/kon_conf.dconf",
+    "tag": "configs",
+    "description": "graphic, render, sound and other settings by KONSTALKER"
   },
   "defrag": {
     "version": "v1",
