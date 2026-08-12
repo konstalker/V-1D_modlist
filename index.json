@@ -15,7 +15,7 @@
   "Quake3e": {
       "version": "git",
       "repo": "ec-/Quake3e",
-      "link": "[RURL]download_confs/q3e.dconf",
+      "link": "[RURL]download_confs/q3e-[OS].dconf",
       "tag": "engine",
       "description": "quake3e engine"
   },
