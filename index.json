@@ -12,6 +12,13 @@
     "tag": "engine",
     "description": "open defrag engine"
   },
+  "Quake3e": {
+      "version": "git",
+      "repo": "ec-/Quake3e",
+      "link": "[RURL]download_confs/q3e.dconf",
+      "tag": "engine",
+      "description": "quake3e engine"
+  },
   "kon": {
     "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
     "link": "[RURL]download_confs/kon.dconf",
