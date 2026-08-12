@@ -47,5 +47,12 @@
         "link": "[RURL]download_confs/defrag.dconf",
         "tag": "defrag",
         "description": "mod for speedrunning maps"
+    },
+    "GothicRL": {
+        "version_type": "version",
+        "version": "v1",
+        "link": "[RURL]download_confs/GothicRL.dconf",
+        "tag": "GothicRL",
+        "description": "Rocket launcher in gothic style"
     }
 }
