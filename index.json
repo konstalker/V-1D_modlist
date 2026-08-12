@@ -7,6 +7,7 @@
   },
   "oDFe": {
     "version": "git",
+    "repo": "defrag-racing/oDFe",
     "link": "[RURL]download_confs/oDFe-[OS].dconf",
     "tag": "engine",
     "description": "open defrag engine"
