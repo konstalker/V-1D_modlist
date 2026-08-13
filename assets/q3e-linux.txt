@@ -1,1 +1,2 @@
 ./quake3e-vulkan.x64
+./quake3e.x64
