@@ -4,55 +4,63 @@
         "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/sversion",
         "link": "[RURL]download_confs/scripts.dconf",
         "tag": "scripts",
-        "description": "python-scripts and launcher interface. core of this program."
+        "description": "python-scripts and launcher interface. core of this program.",
+        "author": "KONSTALKER"
     },
     "osp2-be": {
         "version_type": "url",
         "version": "https://konstalker.github.io/assets/version.txt",
         "link": "[RURL]download_confs/osp2-be.dconf",
         "tag": "osp2",
-        "description": "improved OSP"
+        "description": "improved OSP",
+        "author": "Diwoc"
     },
     "oDFe": {
         "version_type": "git",
         "version": "defrag-racing/oDFe",
         "link": "[RURL]download_confs/oDFe-[OS].dconf",
         "tag": "engine",
-        "description": "open defrag engine"
+        "description": "open defrag engine",
+        "author": "defrag-racing (neyo)"
     },
     "Quake3e": {
         "version_type": "git",
         "version": "ec-/Quake3e",
         "link": "[RURL]download_confs/q3e-[OS].dconf",
         "tag": "engine",
-        "description": "quake3e engine"
+        "description": "quake3e engine",
+        "author": "ec-"
     },
     "kon": {
         "version_type": "url",
         "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
         "link": "[RURL]download_confs/kon.dconf",
         "tag": "compilation",
-        "description": "default Q3V#1D compilation source file"
+        "description": "default Q3V#1D compilation source file",
+        "author": "KONSTALKER"
     },
     "kon_conf": {
         "version_type": "url",
         "version": "https://github.com/konstalker/Q3V-1D/raw/refs/heads/[CBRANCH]/version",
         "link": "[RURL]download_confs/kon_conf.dconf",
         "tag": "configs",
-        "description": "graphic, render, sound and other settings by KONSTALKER"
+        "description": "graphic, render, sound and other settings",
+        "author": "KONSTALKER"
     },
     "defrag": {
         "version_type": "version",
         "version": "v1",
         "link": "[RURL]download_confs/defrag.dconf",
         "tag": "defrag",
-        "description": "mod for speedrunning maps"
+        "description": "mod for speedrunning maps",
+        "author": "defrag-racing (neyo)"
     },
     "GothicRL": {
         "version_type": "version",
         "version": "v1",
         "link": "[RURL]download_confs/GothicRL.dconf",
-        "tag": "GothicRL",
-        "description": "Rocket launcher in gothic style"
+        "tag": "rocket",
+        "description": "Rocket launcher in gothic style",
+        "author": "jayjayNGL"
     }
 }
