@@ -9,7 +9,7 @@
     },
     "osp2-be": {
         "version_type": "url",
-        "version": "https://konstalker.github.io/assets/version.txt",
+        "version": "https://q3a.space/osp2/assets/version.txt",
         "link": "[RURL]download_confs/osp2-be.dconf",
         "tag": "osp2",
         "description": "improved OSP",
