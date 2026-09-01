@@ -9,7 +9,7 @@
     },
     "osp2-be": {
         "version_type": "url",
-        "version": "https://q3a.space/osp2/assets/version.txt",
+        "version": "https://github.com/scoqx/osp2-be/releases/latest/download/version.txt",
         "link": "[RURL]download_confs/osp2-be.dconf",
         "tag": "osp2",
         "description": "improved OSP",
