@@ -63,6 +63,22 @@
         "description": "Improved vanilla weapons",
         "author": "jayjayNGL"
     },
+    "Black rail glass": {
+        "version_type": "version",
+        "version": "v1",
+        "link": "[RURL]download_confs/BlackRGlass.dconf",
+        "tag": "weapons",
+        "description": "Black glass railgun",
+        "author": "jayjayNGL"
+    },
+    "Red rail glass": {
+        "version_type": "version",
+        "version": "v1",
+        "link": "[RURL]download_confs/RedRGlass.dconf",
+        "tag": "weapons",
+        "description": "Red glass railgun",
+        "author": "jayjayNGL"
+    },
     "GothicRL": {
         "version_type": "version",
         "version": "v1",
