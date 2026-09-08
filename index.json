@@ -7,7 +7,7 @@
         "description": "python-scripts and launcher interface. core of this program.",
         "author": "KONSTALKER"
     },
-    "osp2-be": {
+    "OSP2-BE": {
         "version_type": "url",
         "version": "https://github.com/scoqx/osp2-be/releases/latest/download/version.txt",
         "link": "[RURL]download_confs/osp2-be.dconf",
@@ -47,13 +47,21 @@
         "description": "graphic, render, sound and other settings",
         "author": "KONSTALKER"
     },
-    "defrag": {
+    "DeFrag": {
         "version_type": "version",
         "version": "v1",
         "link": "[RURL]download_confs/defrag.dconf",
         "tag": "defrag",
         "description": "mod for speedrunning maps",
         "author": "defrag-racing (neyo)"
+    },
+    "Improved Weapons": {
+        "version_type": "version",
+        "version": "v1",
+        "link": "[RURL]download_confs/ImprovedWpns.dconf",
+        "tag": "weapons",
+        "description": "Improved vanilla weapons",
+        "author": "jayjayNGL"
     },
     "GothicRL": {
         "version_type": "version",
