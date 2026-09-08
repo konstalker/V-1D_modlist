@@ -67,7 +67,7 @@
         "version_type": "version",
         "version": "v1",
         "link": "[RURL]download_confs/BlackRGlass.dconf",
-        "tag": "weapons",
+        "tag": "rail",
         "description": "Black glass railgun",
         "author": "jayjayNGL"
     },
@@ -75,7 +75,7 @@
         "version_type": "version",
         "version": "v1",
         "link": "[RURL]download_confs/RedRGlass.dconf",
-        "tag": "weapons",
+        "tag": "rail",
         "description": "Red glass railgun",
         "author": "jayjayNGL"
     },
