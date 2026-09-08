@@ -47,6 +47,15 @@
         "description": "graphic, render, sound and other settings",
         "author": "KONSTALKER"
     },
+    "Simple graphics":
+    {
+        "version_type": "version",
+        "version": "v1",
+        "link": "[RURL]download_confs/simple.dconf",
+        "tag": "graphics",
+        "description": "maximum fps and good appearance config",
+        "author": "KONSTALKER"
+    },
     "DeFrag": {
         "version_type": "version",
         "version": "v1",
