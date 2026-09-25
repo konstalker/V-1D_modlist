@@ -95,5 +95,13 @@
         "tag": "rocket",
         "description": "Rocket launcher in gothic style",
         "author": "jayjayNGL"
+    },
+    "White icons": {
+        "version_type": "version",
+        "version": "v1",
+        "link": "[RURL]download_confs/whiteico.dconf",
+        "tag": "icons",
+        "description": "white interface icons",
+        "author": "KONSTALKER"
     }
 }
