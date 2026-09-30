@@ -50,7 +50,7 @@
     "Simple graphics":
     {
         "version_type": "version",
-        "version": "v1.1",
+        "version": "v1.2",
         "link": "[RURL]download_confs/simple.dconf",
         "tag": "graphics",
         "description": "maximum fps and good appearance config",
