@@ -9,7 +9,7 @@
     },
     "OSP2-BE": {
         "version_type": "url",
-        "version": "https://github.com/scoqx/osp2-be/releases/latest/download/version.txt",
+        "version": "https://github.com/scoqx/osp2-be-web/releases/latest/download/version.txt",
         "link": "[RURL]download_confs/osp2-be.dconf",
         "tag": "osp2",
         "description": "improved OSP",
